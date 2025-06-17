@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# data folder 
+cropped_image/
+images/
+raw_pdf/
+
+## test file
+test_code_here.ipynb
+
+##
+.env
